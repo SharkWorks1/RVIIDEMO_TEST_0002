@@ -1,0 +1,382 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<stub:stub xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" disposition="SHR" encoding="1047" id="Unit%20Test/Stubs/RVIIDEMO_RVII0040_01.stub" stubtype="Program" target="RVII0040" token="10000">
+  <properties:properties>
+    <properties:property name="programtype" type="string">ProgramStubAssertion</properties:property>
+  </properties:properties>
+  <stub:description>Created: Apr 17, 2020 3:09:42 AM</stub:description>
+  <stub:stubdata id="0" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="1" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="2" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="3" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="4" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="5" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="6" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="7" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="8" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="9" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="10" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="11" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="12" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="13" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+  <stub:stubdata id="14" name="RVII0040">
+    <stub:interface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:interface>
+    <stub:inputinterface>../Interfaces/RVIIDEMO_RVII0040.interface#Unit%20Test/Interfaces/RVIIDEMO_RVII0040.interface</stub:inputinterface>
+    <stub:input listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:input>
+    <stub:output listructure="../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_REPORT-RECORD.listructure#REPORT_RECORD" id="arg0.REPORT_RECORD">
+        <properties:properties>
+          <properties:property name="value" type="string"></properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:output>
+    <stub:returncode listructure="../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#Unit%20Test/Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure">
+      <stub:data baseType="listructure:structType ../Structures/RVIIDEMO_RVII0040_RETURN-CODE.listructure#RETURN_CODE" id="arg0.RETURN_CODE">
+        <properties:properties>
+          <properties:property name="value" type="string">0000</properties:property>
+        </properties:properties>
+      </stub:data>
+    </stub:returncode>
+  </stub:stubdata>
+</stub:stub>
